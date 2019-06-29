@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\ODM\金科\软件\电池综合测试仪 - 副本\Project\JK_BTSET.uvproj
+Project File Date:  12/30/2017
+
+<h2>Output:</h2>
+Build target 'JK_BTSET'
+compiling modbus.c...
+..\Include\my_register.h(195): warning:  #1-D: last line of file ends without a newline
+..\Include\usart.h(18): warning:  #1-D: last line of file ends without a newline
+..\Include\modbus.h(17): warning:  #1-D: last line of file ends without a newline
+..\Include\my_register.h(195): warning:  #1-D: last line of file ends without a newline
+..\Include\flash.h(37): warning:  #1-D: last line of file ends without a newline
+..\drive\modbus.c(325): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=77440 RO-data=44972 RW-data=1924 ZI-data=34452  
+FromELF: creating hex file...
+"..\Output\JK_BTSET.axf" - 0 Errors, 6 Warning(s).
